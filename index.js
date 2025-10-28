@@ -1,1 +1,1 @@
-console.log("Testando GitHub Actions");
+console.log("Executando pipeline em branch feature/teste");
