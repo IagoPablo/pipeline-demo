@@ -1,1 +1,2 @@
-console.log("Executando pipeline em branch feature/teste");
+console.log("Simulando erro na pipeline!")
+erroQueNaoExiste()
