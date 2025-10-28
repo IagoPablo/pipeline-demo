@@ -1,6 +1,7 @@
-function saudacao(nome) {
-  return `Olá, ${nome}! Seja bem-vindo(a) ao projeto com GitHub Actions.`;
+const mensagem = saudacao("Iago"); {
+console.log(mensagem);
+  return `Olá, ${nome} bem vindo ao com GitHub Actions.`;
 }
 
-const mensagem = saudacao("Iago");
+const mensagemm = saudacao("Iago");
 console.log(mensagem);
